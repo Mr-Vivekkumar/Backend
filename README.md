@@ -89,21 +89,3 @@ $ npm run test:cov
 ## Swagger API Documentation
 `https://{host}:{port}/api`
 
-## Contribution Guidelines
-1. Fork the repo
-2. Create a feature branch: git checkout -b feature-xyz
-3. Commit your changes: git commit -m "Add feature XYZ"
-4. Push to the branch: git push origin feature-xyz
-5. Create a Pull Request 🚀
-
-## Commit Guidelines
-`[type](module name - optional): commit message`
-- Feature - feat(blog): `your message`
-- Fix - fix: `your message`
-- Update - chore: `your message`
-- Refactor - refactor: `your message`
-- Document - docs: `your message`
-
-## License
-
-This project is [MIT licensed](LICENSE).
